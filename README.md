@@ -1,5 +1,7 @@
 # timeblox
-exploring an interface to represent time
+exploring an interface to represent time ...
+
+... we all have 24 blocks in a day
 
 ## Commands
 Command                | Description                                      |
